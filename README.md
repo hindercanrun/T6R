@@ -1,6 +1,6 @@
-# T6²
+# T6R
 
-T6² is a mod made for T6 Zombies that adds cut content, gameplay improvements and much more.
+T6R is a mod made for T6 Zombies that adds cut content, gameplay improvements and much more.
 
 # How to Install
 
@@ -22,4 +22,4 @@ Sir.Doggo
 
 # TEMP
 
-Build Info: COD T6X2_R ZM PROTOTYPE BUILD 1.1.5 [NET: 01 CO209376 Playlist: ZM TU: 0 FFOTD: 1]
+Build Info: COD T6R_ZM PROTOTYPE BUILD 1.1.5 [NET: 01 CO209376 Playlist: ZM TU: 0 FFOTD: 1]
